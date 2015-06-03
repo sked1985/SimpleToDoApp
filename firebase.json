@@ -1,0 +1,9 @@
+{
+  "firebase": "todosked",
+  "public": "www",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
